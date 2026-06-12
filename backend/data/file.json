@@ -1,0 +1,46 @@
+[
+    {
+        "header": {
+            "discipline": 0,
+            "gribEdition": 2,
+            "gribLength": 995415,
+            "center": 0,
+            "refTime": "2026-06-01 18:00:00",
+            "parameterCategory": 2,
+            "parameterNumber": 2,
+            "surface1Type": "sfc",
+            "surface1Value": 40,
+            "forecastTime": 0,
+            "nx": 1440,
+            "ny": 721,
+            "lo1": 0.0,
+            "la1": 90.0,
+            "lo2": 359.75,
+            "la2": -90.0,
+            "dx": 0.25,
+            "dy": 0.25
+        }
+    },
+    {
+        "header": {
+            "discipline": 0,
+            "gribEdition": 2,
+            "gribLength": 973801,
+            "center": 0,
+            "refTime": "2026-06-01 18:00:00",
+            "parameterCategory": 2,
+            "parameterNumber": 3,
+            "surface1Type": "sfc",
+            "surface1Value": 40,
+            "forecastTime": 0,
+            "nx": 1440,
+            "ny": 721,
+            "lo1": 0.0,
+            "la1": 90.0,
+            "lo2": 359.75,
+            "la2": -90.0,
+            "dx": 0.25,
+            "dy": 0.25
+        }
+    }
+]
