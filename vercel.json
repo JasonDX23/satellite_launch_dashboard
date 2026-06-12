@@ -10,11 +10,6 @@
       "use": "@vercel/static"
     }
   ],
-  "functions": {
-    "backend/app.py": {
-      "includeFiles": "backend/data/**"
-    }
-  },
   "routes": [
     {
       "src": "/api/(.*)",
