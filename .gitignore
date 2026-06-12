@@ -1,3 +1,6 @@
 .venv/
 shape_processing.ipynb
 WeatherNext_2_Starter_Guide_Earth_Engine.ipynb
+backend/data/grib2json.py
+backend/data/test.json
+backend/data/gfs.anl
