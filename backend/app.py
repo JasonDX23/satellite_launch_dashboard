@@ -9,7 +9,7 @@ app = FastAPI(title="Launch Weather Intelligence API")
 
 # Load Launchpads
 DATA_DIR = os.path.join(os.path.dirname(__file__), "data")
-with open(os.path.join(DATA_DIR, "launchpads.json"), "r") as f:
+with open(os.path.join(DATA_DIR, "LaunchPads.json"), "r") as f:
     geojson_data = json.load(f)
 
 # Extract the features from the GeoJSON and format them for the dashboard
